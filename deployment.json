@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "package": "Matteo_Jet_GitHub_Pages_v0.3.1.zip",
+  "version": "0.3.1",
+  "build": "011d14ddf250",
+  "sha256": "1906735bc0b41beffb82956d01668274cb36f7ab3edb68742a74ed01d658b254",
+  "files": {
+    "index.html": {
+      "bytes": 11236825,
+      "sha256": "760c72402ca87acc28fc534e13a49dc4dc7d738f1e7a5b85c4729fd1461bdcdf"
+    },
+    "manifest.webmanifest": {
+      "bytes": 611,
+      "sha256": "bbebd94ba5e8b6164c0e0473edf981730d45b9180ea71b5a612de3d0c710a27c"
+    },
+    "service-worker.js": {
+      "bytes": 1789,
+      "sha256": "a9235f612a96f88b1a39756d98b865781964102174cd021556eaefcae2379451"
+    },
+    "icon-192.png": {
+      "bytes": 47991,
+      "sha256": "b4a4aba47182efcdc8094034d0504407705c668fb6cb7e39a994b858fc190071"
+    },
+    "icon-512.png": {
+      "bytes": 267684,
+      "sha256": "4998f78f1741ab03b895368717c3c74bdc91eafe30953f8c53238cf3e6ceaee6"
+    },
+    "favicon.svg": {
+      "bytes": 307,
+      "sha256": "e94fd110bf7508ad0a372fe1ce20027592c839d3a2c3b85b6481d8d0c497b7ee"
+    },
+    "build-info.json": {
+      "bytes": 255,
+      "sha256": "315462088444d125bdfa177798e5e47dd21b639f8198171d5720ebcfae704088"
+    },
+    ".nojekyll": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  }
+}
